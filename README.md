@@ -1,2 +1,1 @@
-# sc2001
-example classes
+# Integration of Insertion Sort and Merge Sort: Hybrid Sort
